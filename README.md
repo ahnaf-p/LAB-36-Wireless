@@ -1,4 +1,4 @@
-# LAB-36-Band
+# LAB-36-Wireless 802.11a/b/g/n/ac, Band, Channel dan Data Rate
 Kamis 21 Agustus 2025  
   
 # Band  
