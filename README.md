@@ -101,4 +101,8 @@ Seperti jalan raya, Band itu adalah jalan besar dan Channel itu laju jalur. Jadi
   Overlap adalah ketika dua channel berbagi sebagian frekuensi yang sama, akibatnya sinyal bisa saling terganggu. Cohtohnya channel 2 (2.417 GHz) dan Channel 3 (2.422 GHz) saling overlap jadi client yang connect bisa mengalami interferensi.  
 
 # Kesimpulan  
-  Band adalah rentang frekuensi yang digunakan wireless, channel adalah pembagian frekuensi dalam satu band, dan data rate adalah kecematan maksimal yang bisa dicapai.
+  Band adalah rentang frekuensi yang digunakan wireless, channel adalah pembagian frekuensi dalam satu band, dan data rate adalah kecematan maksimal yang bisa dicapai. Semakain besar range atau channel width yang digunakan maka semakin besar pula troughput bandwith yang bisa dilewatkan. 
+
+# Sumber
+Citraweb - citraweb.com/artikel_lihat.php?id=70
+         - citraweb.com/artikel/144/
